@@ -1,0 +1,1 @@
+17:52 finished day1 – venv, git push, f-strings
